@@ -7,5 +7,5 @@ t git_steps.txt
 6. git push orign masters
 
 
-url  hhttps://github.com/25Vinita/220340126032.git
+url  https://github.com/25Vinita/220340126032.git
 
