@@ -1,0 +1,11 @@
+t git_steps.txt 
+1 create repo in github
+2. name of repo 25Vinita/220340126032
+3. git clone <pase git http code>
+4. git add .
+5. git commit -m "exam" 
+6. git push orign masters
+
+
+url  hhttps://github.com/25Vinita/220340126032.git
+
