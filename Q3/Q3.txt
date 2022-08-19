@@ -1,0 +1,4 @@
+Steps of create IAM user on AWS console:
+1) login into AWS console.
+2) searched IAM in search bar and select it,then selected users and comes on add users.
+3) selcted Add users and craeted user dev-iot and select Aws type access key
